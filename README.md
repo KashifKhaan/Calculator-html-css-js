@@ -16,9 +16,9 @@ A simple and attractive calculator web application built using HTML, CSS, and Ja
 - Press the "C" button to clear the input.
 - Press the "=" button to calculate and display the result.
 
-  ## Demo
+## Demo
 
-  https://kashifkhaan.github.io/Calculator-html-css-js/
+https://kashifkhaan.github.io/Calculator-html-css-js/
   
 
 ## Keyboard Shortcuts
