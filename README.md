@@ -18,7 +18,7 @@ A simple and attractive calculator web application built using HTML, CSS, and Ja
 
   ## Demo
 
-https://kashifkhaan.github.io/Calculator-html-css-js/
+  https://kashifkhaan.github.io/Calculator-html-css-js/
   
 
 ## Keyboard Shortcuts
